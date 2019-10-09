@@ -1,1 +1,1 @@
-NetFrameworkTestService
+NetFrameworkTestService using topshelf
