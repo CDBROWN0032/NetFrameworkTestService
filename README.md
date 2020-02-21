@@ -1,1 +1,1 @@
-NetFrameworkTestService using topshelf
+NetFramework test service used for presentation
